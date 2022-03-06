@@ -6,6 +6,12 @@
 - H2 (테스트코드용 DB)
 - Swagger 2
 
+## 실행 방법
+
+```
+./gradlew bootRun
+```
+
 ## 스웨거
 
 <img width="1470" alt="Screen Shot 2022-03-07 at 3 01 48 AM" src="https://user-images.githubusercontent.com/43809168/156936007-e516f3dc-acce-4e8f-8594-432b638d4f18.png">
